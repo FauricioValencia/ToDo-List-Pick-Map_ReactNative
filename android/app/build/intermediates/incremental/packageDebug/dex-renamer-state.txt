@@ -1,0 +1,4 @@
+#Fri Aug 03 10:59:52 COT 2018
+base.0=/home/desarrollo007/Escritorio/proyectos/udemy/rn-course/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/desarrollo007/Escritorio/proyectos/udemy/rn-course/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
